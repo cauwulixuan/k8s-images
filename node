@@ -1,1 +1,1 @@
-FROM calico/node:v3.11.2
+FROM calico/node:release-v3.12-amd64
