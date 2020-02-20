@@ -1,0 +1,1 @@
+FROM quay.io/external_storage/cephfs-provisioner:5.5.0
